@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zone</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-09-01T12:11:35.435Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Empty-LH</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>且慢</title>
+    <link href="http://example.com/2021/09/01/hello-world/"/>
+    <id>http://example.com/2021/09/01/hello-world/</id>
+    <published>2021-09-01T08:22:42.738Z</published>
+    <updated>2021-09-01T12:11:35.435Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
